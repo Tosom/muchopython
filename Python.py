@@ -93,3 +93,6 @@ while c<20: #Creamos un bucle con una condición
     c +=2
 print(c)
 print("Hemos salido del while")
+
+#Ahora está todo subido en git
+
